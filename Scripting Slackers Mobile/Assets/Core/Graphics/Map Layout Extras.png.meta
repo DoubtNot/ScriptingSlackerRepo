@@ -1,0 +1,926 @@
+fileFormatVersion: 2
+guid: 4eb023601c55dd04b944e7414793d04f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5344704190897354564
+    second: Map Layout Extras_0
+  - first:
+      213: 119214391579058134
+    second: Map Layout Extras_1
+  - first:
+      213: -8986729621337029692
+    second: Map Layout Extras_2
+  - first:
+      213: -5089998424517182295
+    second: Map Layout Extras_3
+  - first:
+      213: -8193313462685971384
+    second: Map Layout Extras_4
+  - first:
+      213: -6173211825746825961
+    second: Map Layout Extras_5
+  - first:
+      213: 2618216711052162636
+    second: Map Layout Extras_6
+  - first:
+      213: -2524492419818527761
+    second: Map Layout Extras_7
+  - first:
+      213: 5860874805537109303
+    second: Map Layout Extras_8
+  - first:
+      213: 977937081383415432
+    second: Map Layout Extras_9
+  - first:
+      213: 8875295323497819512
+    second: Map Layout Extras_10
+  - first:
+      213: 5631659639327302192
+    second: Map Layout Extras_11
+  - first:
+      213: 2971420517231344232
+    second: Map Layout Extras_12
+  - first:
+      213: 7759485851656014613
+    second: Map Layout Extras_13
+  - first:
+      213: -3619749893312787119
+    second: Map Layout Extras_14
+  - first:
+      213: 4701193846289392608
+    second: Map Layout Extras_15
+  - first:
+      213: -6785168191229681865
+    second: Map Layout Extras_16
+  - first:
+      213: -3177380787136254848
+    second: Map Layout Extras_17
+  - first:
+      213: -2831014545438406083
+    second: Map Layout Extras_18
+  - first:
+      213: 3607386471724481291
+    second: Map Layout Extras_19
+  - first:
+      213: -3283995605381804254
+    second: Map Layout Extras_20
+  - first:
+      213: 7113905875559576670
+    second: Map Layout Extras_21
+  - first:
+      213: -746264320210093092
+    second: Map Layout Extras_22
+  - first:
+      213: 6784764317730251258
+    second: Map Layout Extras_23
+  - first:
+      213: -4365813748427619411
+    second: Map Layout Extras_24
+  - first:
+      213: 2563126484934869983
+    second: Map Layout Extras_25
+  - first:
+      213: -6834271036881875018
+    second: Map Layout Extras_26
+  - first:
+      213: 3442948688932650511
+    second: Map Layout Extras_27
+  - first:
+      213: -6446239903722302474
+    second: Map Layout Extras_28
+  - first:
+      213: 2693726050853590607
+    second: Map Layout Extras_29
+  - first:
+      213: 3740638086738115388
+    second: Map Layout Extras_30
+  - first:
+      213: -4327863345795572080
+    second: Map Layout Extras_31
+  - first:
+      213: -658358824678741108
+    second: Map Layout Extras_32
+  - first:
+      213: 1602336053661465821
+    second: Map Layout Extras_33
+  - first:
+      213: -5859518954651020104
+    second: Map Layout Extras_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Map Layout Extras_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 381
+        width: 230
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4477af7e4243c2a40800000000000000
+      internalID: 5344704190897354564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 381
+        width: 135
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df1f268bd887a100800000000000000
+      internalID: 119214391579058134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 365
+        width: 168
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3c9bbe509b84380800000000000000
+      internalID: -8986729621337029692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 365
+        width: 189
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acfa5f9661bc59b0800000000000000
+      internalID: -5089998424517182295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 347
+        width: 194
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c4d23d0d08b4e80800000000000000
+      internalID: -8193313462685971384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_5
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 348
+        width: 153
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dae133d88545aa0800000000000000
+      internalID: -6173211825746825961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 332
+        width: 136
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46714f0a36c55420800000000000000
+      internalID: 2618216711052162636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 328
+        width: 80
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3ec8ef48337fcd0800000000000000
+      internalID: -2524492419818527761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_8
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 330
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73573195592065150800000000000000
+      internalID: 5860874805537109303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 330
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e6a8c1894529d00800000000000000
+      internalID: 977937081383415432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_10
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 331
+        width: 112
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87de5c9c2126b2b70800000000000000
+      internalID: 8875295323497819512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 309
+        width: 128
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032220aaa9ca72e40800000000000000
+      internalID: 5631659639327302192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 311
+        width: 58
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ab1e7973b9c3920800000000000000
+      internalID: 2971420517231344232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_13
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 309
+        width: 131
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b40a3454b3fab60800000000000000
+      internalID: 7759485851656014613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 293
+        width: 132
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d455976a014cdc0800000000000000
+      internalID: -3619749893312787119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 290
+        width: 180
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3e45c25eefd3140800000000000000
+      internalID: 4701193846289392608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 271
+        width: 173
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f997cba7d36d1a0800000000000000
+      internalID: -6785168191229681865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 268
+        width: 190
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ca792320da7e3d0800000000000000
+      internalID: -3177380787136254848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 258
+        width: 164
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a0e21354736b8d0800000000000000
+      internalID: -2831014545438406083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_19
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 256
+        width: 106
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bffae12e2001230800000000000000
+      internalID: 3607386471724481291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 244
+        width: 188
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f06417567ec62d0800000000000000
+      internalID: -3283995605381804254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_21
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 240
+        width: 130
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54fa46e3bba9b260800000000000000
+      internalID: 7113905875559576670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 229
+        width: 180
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb345dfd8cb4a5f0800000000000000
+      internalID: -746264320210093092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_23
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 220
+        width: 176
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1ae032333582e50800000000000000
+      internalID: 6784764317730251258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 206
+        width: 202
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da38471e6838963c0800000000000000
+      internalID: -4365813748427619411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_25
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 203
+        width: 163
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd340f045fd029320800000000000000
+      internalID: 2563126484934869983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 185
+        width: 205
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf4ae393bac721a0800000000000000
+      internalID: -6834271036881875018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_27
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 184
+        width: 130
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e3abf479fc7cf20800000000000000
+      internalID: 3442948688932650511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 160
+        width: 218
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f31fa116fa5a86a0800000000000000
+      internalID: -6446239903722302474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_29
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 168
+        width: 133
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46185f3299026520800000000000000
+      internalID: 2693726050853590607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_30
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 154
+        width: 131
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b7259658a69e330800000000000000
+      internalID: 3740638086738115388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_31
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 139
+        width: 131
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09edb6d873750f3c0800000000000000
+      internalID: -4327863345795572080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Layout Extras_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 152
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcfa49b624ac3610800000000000000
+      internalID: 1602336053661465821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

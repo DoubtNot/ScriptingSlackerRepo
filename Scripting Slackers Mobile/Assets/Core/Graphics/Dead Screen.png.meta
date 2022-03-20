@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: a1f6a7a990e8df1498542126baf62035
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4017105302804176521
+    second: Dead Screen_0
+  - first:
+      213: -512846881533082370
+    second: Voldemort1
+  - first:
+      213: -7964933851880219326
+    second: Voldemort2
+  - first:
+      213: -2901524514126638120
+    second: Voldemort3
+  - first:
+      213: -2798969685033689497
+    second: Dead Screen_4
+  - first:
+      213: -3126620381456731375
+    second: Voldemort4
+  - first:
+      213: -237016165937488428
+    second: Dead Screen_6
+  - first:
+      213: -5393164285243190307
+    second: Harry1
+  - first:
+      213: 8118606394639961922
+    second: Dead Screen_8
+  - first:
+      213: -3589108519253770901
+    second: Dead Screen_9
+  - first:
+      213: 2316523828305553324
+    second: Harry
+  - first:
+      213: 5870231500969827200
+    second: Voldemort
+  - first:
+      213: 2696335118219626713
+    second: Harry2
+  - first:
+      213: 3235375213735622015
+    second: Hary6
+  - first:
+      213: -8600048328019841640
+    second: Dead Screen_14
+  - first:
+      213: -5548919037368975339
+    second: Dead Screen_15
+  - first:
+      213: -2391129874424938739
+    second: Voldemort6
+  - first:
+      213: -715597320058322152
+    second: Harry3
+  - first:
+      213: 796195132178711631
+    second: Harry7
+  - first:
+      213: -3810909602500137261
+    second: Harry4
+  - first:
+      213: 8761464325341789043
+    second: Dead Screen_20
+  - first:
+      213: -7242859215068098887
+    second: Harry5
+  - first:
+      213: 1641346160550083259
+    second: Voldemort5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Voldemort1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 248
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5969932, y: 0.889981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4cd0a7a7002e8f0800000000000000
+      internalID: -512846881533082370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voldemort2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 206
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6620144, y: 0.89365995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d123b9cded67190800000000000000
+      internalID: -7964933851880219326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voldemort3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 166
+        width: 37
+        height: 29
+      alignment: 9
+      pivot: {x: 0.76529014, y: 0.8863015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3d46cc3d6bbb7d0800000000000000
+      internalID: -2901524514126638120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voldemort4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 130
+        width: 47
+        height: 29
+      alignment: 9
+      pivot: {x: 0.81084883, y: 0.89265865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11376cf14530c94d0800000000000000
+      internalID: -3126620381456731375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 105
+        width: 15
+        height: 24
+      alignment: 9
+      pivot: {x: 0.3593548, y: 0.81254387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd391c228a1a725b0800000000000000
+      internalID: -5393164285243190307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 103
+        width: 40
+        height: 24
+      alignment: 9
+      pivot: {x: 0.13809967, y: 0.8169184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be83bf0be13c7b90800000000000000
+      internalID: -7242859215068098887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voldemort5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 95
+        width: 53
+        height: 29
+      alignment: 9
+      pivot: {x: 0.82835764, y: 0.8852502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaf90503ab37c610800000000000000
+      internalID: 1641346160550083259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 76
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.29026604, y: 0.8076604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d844e4118e4b6520800000000000000
+      internalID: 2696335118219626713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hary6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 58
+        width: 52
+        height: 40
+      alignment: 9
+      pivot: {x: 0.10837379, y: 0.48773232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75b0d97d9c56ec20800000000000000
+      internalID: 3235375213735622015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voldemort6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 61
+        width: 53
+        height: 29
+      alignment: 9
+      pivot: {x: 0.83038443, y: 0.88525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fb3174c0001ded0800000000000000
+      internalID: -2391129874424938739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 46
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.22652332, y: 0.81254387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813c3bf5700b116f0800000000000000
+      internalID: -715597320058322152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 9
+        width: 52
+        height: 40
+      alignment: 9
+      pivot: {x: 0.10837379, y: 0.48773232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4448691147ac0b00800000000000000
+      internalID: 796195132178711631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 17
+        width: 33
+        height: 24
+      alignment: 9
+      pivot: {x: 0.16438605, y: 0.8181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deaad758edec1bc0800000000000000
+      internalID: -3810909602500137261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

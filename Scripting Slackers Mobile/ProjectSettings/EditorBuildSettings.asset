@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Core/Scenes/Intro Scene.unity
+    guid: be653d4540d384f49964076f74dbb22c
+  - enabled: 1
+    path: Assets/Core/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Core/Scenes/Map.unity
+    guid: d99691fd7d9f17b408fc10c410a2ac3a
+  - enabled: 1
+    path: Assets/Core/Scenes/Support.unity
+    guid: 4093ccdead58c0b4d9793442e649d38e
+  - enabled: 1
+    path: Assets/Core/Scenes/ThankYou.unity
+    guid: 434a7a58398f2a04ea70c92bc2db8d26
+  - enabled: 1
+    path: Assets/Core/Scenes/lvlz/lvlToerial.unity
+    guid: 1ef9dc4021bdece4da7470d76c61d1aa
+  - enabled: 1
+    path: Assets/Core/Scenes/lvlz/lvlSand.unity
+    guid: edb8606d9e0d7f94fad36b1d77abde4a
+  - enabled: 1
+    path: Assets/Core/Scenes/lvlz/lvlDavinci.unity
+    guid: 001ca5816aaaed741a7f0a0964f5526f
+  - enabled: 1
+    path: Assets/Core/Scenes/lvlz/lvlCatus.unity
+    guid: a5563125805897b40a2f1d66478601cf
+  - enabled: 1
+    path: Assets/Core/Scenes/lvlz/lvlMountains.unity
+    guid: 572d81a251694b6439da0a9afc9e4168
+  - enabled: 1
+    path: Assets/Core/Scenes/lvlz/lvl2trees.unity
+    guid: f65949db448c52c489f1fc58c1a2538b
+  - enabled: 1
+    path: Assets/Core/Scenes/lvlz/lvlWater.unity
+    guid: e83b56a67dc08d342b0de75eab04cc9c
+  - enabled: 1
+    path: Assets/Core/Scenes/lvlz/lvlCode.unity
+    guid: 908daeb6e42b6f54f9d991378b87be61
+  - enabled: 1
+    path: Assets/Core/Scenes/lvlz/lvlCookie.unity
+    guid: 0b5cc04e5554e8c4e916047fbd2754ef
+  - enabled: 1
+    path: Assets/Core/Scenes/lvlz/lvlEarth.unity
+    guid: 5d905f1c865b35b48951485c3e1d8574
+  - enabled: 1
+    path: Assets/Core/Scenes/lvlz/lvlBoss.unity
+    guid: 685da8b96dbcfce42a6347a8045120e0
+  - enabled: 1
+    path: Assets/Core/Scenes/winz/WinDeathToerial.unity
+    guid: 39f23c7d98cda524fb8bfc5ed5e288cf
+  - enabled: 1
+    path: Assets/Core/Scenes/winz/WinSand.unity
+    guid: 2ca528a665f8ec54ab23f85bf656aa50
+  - enabled: 1
+    path: Assets/Core/Scenes/winz/WinDavinci.unity
+    guid: 435f6e16c9172c44584e7b9a3bf902c9
+  - enabled: 1
+    path: Assets/Core/Scenes/winz/WinCatus.unity
+    guid: 22e3b5a0fc2f83847ace368ca68b83d6
+  - enabled: 1
+    path: Assets/Core/Scenes/winz/WinMountains.unity
+    guid: 90fcda1caaf0c094986bab12a90b46a6
+  - enabled: 1
+    path: Assets/Core/Scenes/winz/Win2trees.unity
+    guid: addad1b3e46d35e47ab1202b47a98902
+  - enabled: 1
+    path: Assets/Core/Scenes/winz/WinWater.unity
+    guid: adf4e85022506b04db2d7725d8785b87
+  - enabled: 1
+    path: Assets/Core/Scenes/winz/WinCode.unity
+    guid: e2618e772cc0de34baa9b756bc914294
+  - enabled: 1
+    path: Assets/Core/Scenes/winz/WinCookie.unity
+    guid: 211846fd410cba64f857aab87a5499b2
+  - enabled: 1
+    path: Assets/Core/Scenes/winz/WinEarth.unity
+    guid: 8b23fe9990e30b845a196a57e12607b3
+  - enabled: 1
+    path: Assets/Core/Scenes/winz/WinBoss.unity
+    guid: 20b0f3802f635b04ca3822b70ebf018f
+  - enabled: 1
+    path: Assets/Core/Scenes/winz/WinToerial.unity
+    guid: 2dbd1c95c8ce27a42ae2c4777872085e
+  - enabled: 1
+    path: Assets/Core/Scenes/dedz/dedSand.unity
+    guid: 2ef0124ed2362474497301ff506d7b23
+  - enabled: 1
+    path: Assets/Core/Scenes/dedz/dedDavinci.unity
+    guid: 0fb00034d72bbbe47be030f171b89940
+  - enabled: 1
+    path: Assets/Core/Scenes/dedz/dedCatus.unity
+    guid: 386e1ec5f03c5364ab459f01cd4b4845
+  - enabled: 1
+    path: Assets/Core/Scenes/dedz/dedMountains.unity
+    guid: b22cf8ba5d2c7b448a97bd4335a57f45
+  - enabled: 1
+    path: Assets/Core/Scenes/dedz/ded2trees.unity
+    guid: aba466c54606ddd4790d3082dd287483
+  - enabled: 1
+    path: Assets/Core/Scenes/dedz/dedWater.unity
+    guid: 266d89071952eef4c9af0ff7093e3ee2
+  - enabled: 1
+    path: Assets/Core/Scenes/dedz/dedCode.unity
+    guid: 4049db9bb8fd3a444baf7b916be77f57
+  - enabled: 1
+    path: Assets/Core/Scenes/dedz/dedCookie.unity
+    guid: 5998a2349ec1fb545a902605022fd4d0
+  - enabled: 1
+    path: Assets/Core/Scenes/dedz/dedEarth.unity
+    guid: a62a9b191eb561a479b1c59276abba03
+  - enabled: 1
+    path: Assets/Core/Scenes/dedz/dedBoss.unity
+    guid: b2dd92586aab92449a6df05470df2721
+  - enabled: 1
+    path: Assets/Core/Scenes/dedz/dedDeathToerial.unity
+    guid: 51702898b049991428197cd30240a831
+  - enabled: 1
+    path: Assets/Core/Scenes/dedz/dedToerial.unity
+    guid: 9e60296f02f06d14d97877e475aa8785
+  m_configObjects: {}
