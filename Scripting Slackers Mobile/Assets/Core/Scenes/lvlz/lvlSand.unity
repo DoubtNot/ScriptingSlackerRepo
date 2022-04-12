@@ -3186,7 +3186,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6aa83c0aa1d5c874daa12ed0f93ae5e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.5
+  speed: 2
   jump: 1.35
   isGrounded: 0
   health: 0
