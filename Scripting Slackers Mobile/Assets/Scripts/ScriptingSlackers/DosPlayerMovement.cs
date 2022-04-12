@@ -39,7 +39,7 @@ public class DosPlayerMovement : MonoBehaviour
 	}
 
 
-	void Update()
+	void FixedUpdate()
 	{
 		//this is checking for key pushes to move. needs to be changed to the left and right ui buttons in the canvas
 
