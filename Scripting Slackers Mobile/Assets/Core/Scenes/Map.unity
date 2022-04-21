@@ -2356,56 +2356,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: lvlPanel
       objectReference: {fileID: 0}
-    - target: {fileID: 7839072370075334694, guid: 446188bb4f7ac4b4990d9583eb2c7f4f,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7839072371206470637, guid: 446188bb4f7ac4b4990d9583eb2c7f4f,
-        type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 4.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7839072371206470637, guid: 446188bb4f7ac4b4990d9583eb2c7f4f,
-        type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 67
-      objectReference: {fileID: 0}
-    - target: {fileID: 7839072371206470637, guid: 446188bb4f7ac4b4990d9583eb2c7f4f,
-        type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 426.52347
-      objectReference: {fileID: 0}
-    - target: {fileID: 7839072371523151276, guid: 446188bb4f7ac4b4990d9583eb2c7f4f,
-        type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: LoadLevel
-      objectReference: {fileID: 0}
-    - target: {fileID: 7839072371523151276, guid: 446188bb4f7ac4b4990d9583eb2c7f4f,
-        type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7839072371523151277, guid: 446188bb4f7ac4b4990d9583eb2c7f4f,
-        type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -101.84
-      objectReference: {fileID: 0}
-    - target: {fileID: 7839072371523151277, guid: 446188bb4f7ac4b4990d9583eb2c7f4f,
-        type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 82.02446
-      objectReference: {fileID: 0}
-    - target: {fileID: 7839072371523151277, guid: 446188bb4f7ac4b4990d9583eb2c7f4f,
-        type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 5.3
-      objectReference: {fileID: 0}
-    - target: {fileID: 7839072371523151277, guid: 446188bb4f7ac4b4990d9583eb2c7f4f,
-        type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 175.62628
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 446188bb4f7ac4b4990d9583eb2c7f4f, type: 3}
 --- !u!114 &7839072370142809542 stripped

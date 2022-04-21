@@ -282,8 +282,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.74, y: 79.66}
-  m_SizeDelta: {x: 484.16177, y: 79.297455}
+  m_AnchoredPosition: {x: 4.1, y: 67}
+  m_SizeDelta: {x: 426.52347, y: 79.297455}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7839072371206470639
 CanvasRenderer:
@@ -548,8 +548,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 5.3, y: -111.85}
-  m_SizeDelta: {x: 202.62134, y: 78.766464}
+  m_AnchoredPosition: {x: 5.3, y: -101.84}
+  m_SizeDelta: {x: 175.62628, y: 82.02446}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7839072371523151278
 CanvasRenderer:
@@ -632,8 +632,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 7892985245578749030}
-        m_MethodName: LoadScene
-        m_Mode: 5
+        m_MethodName: LoadLevel
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
