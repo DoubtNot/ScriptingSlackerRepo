@@ -384,7 +384,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: wet place
+          m_StringArgument: Cookie
           m_BoolArgument: 1
         m_CallState: 2
       - m_Target: {fileID: 7839072370142809542}
@@ -395,7 +395,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: lvlWater
+          m_StringArgument: lvlCookie
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &183625726
@@ -631,7 +631,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: lvlWater
+          m_StringArgument: lvl2trees
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &307186060
@@ -771,7 +771,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: wet place
+          m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
       - m_Target: {fileID: 7839072370142809542}
@@ -782,7 +782,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: lvlWater
+          m_StringArgument: lvlSand
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &377782031
@@ -1092,7 +1092,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: wet place
+          m_StringArgument: BOSS
           m_BoolArgument: 1
         m_CallState: 2
       - m_Target: {fileID: 7839072370142809542}
@@ -1103,7 +1103,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: lvlWater
+          m_StringArgument: lvlBoss
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &586116863
@@ -1254,7 +1254,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: lvlWater
+          m_StringArgument: lvlDavinci
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &712281289
@@ -1405,7 +1405,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: lvlWater
+          m_StringArgument: lvlCatus
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &759472413
@@ -1545,7 +1545,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: wet place
+          m_StringArgument: Earth
           m_BoolArgument: 1
         m_CallState: 2
       - m_Target: {fileID: 7839072370142809542}
@@ -1556,7 +1556,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: lvlWater
+          m_StringArgument: lvlEarth
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &812858531
@@ -1708,7 +1708,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: wet place
+          m_StringArgument: Code
           m_BoolArgument: 1
         m_CallState: 2
       - m_Target: {fileID: 7839072370142809542}
@@ -1719,7 +1719,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: lvlWater
+          m_StringArgument: lvlCode
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &1265816294
@@ -2000,7 +2000,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: lvlWater
+          m_StringArgument: lvlMountains
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &1707584731
