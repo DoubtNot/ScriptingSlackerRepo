@@ -384,7 +384,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Cookie
+          m_StringArgument: space cookie
           m_BoolArgument: 1
         m_CallState: 2
       - m_Target: {fileID: 7839072370142809542}
@@ -620,7 +620,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: wet place
+          m_StringArgument: dos trees
           m_BoolArgument: 1
         m_CallState: 2
       - m_Target: {fileID: 7839072370142809542}
@@ -771,7 +771,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: quicksand
           m_BoolArgument: 1
         m_CallState: 2
       - m_Target: {fileID: 7839072370142809542}
@@ -1243,7 +1243,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: wet place
+          m_StringArgument: mossy bricks
           m_BoolArgument: 1
         m_CallState: 2
       - m_Target: {fileID: 7839072370142809542}
@@ -1394,7 +1394,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: wet place
+          m_StringArgument: spiky spikes
           m_BoolArgument: 1
         m_CallState: 2
       - m_Target: {fileID: 7839072370142809542}
@@ -1545,7 +1545,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Earth
+          m_StringArgument: broken place
           m_BoolArgument: 1
         m_CallState: 2
       - m_Target: {fileID: 7839072370142809542}
@@ -1708,7 +1708,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Code
+          m_StringArgument: code level
           m_BoolArgument: 1
         m_CallState: 2
       - m_Target: {fileID: 7839072370142809542}
@@ -1989,7 +1989,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: wet place
+          m_StringArgument: small mounds
           m_BoolArgument: 1
         m_CallState: 2
       - m_Target: {fileID: 7839072370142809542}
@@ -2355,6 +2355,46 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: lvlPanel
+      objectReference: {fileID: 0}
+    - target: {fileID: 7839072370075334694, guid: 446188bb4f7ac4b4990d9583eb2c7f4f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7839072371206470637, guid: 446188bb4f7ac4b4990d9583eb2c7f4f,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 4.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7839072371206470637, guid: 446188bb4f7ac4b4990d9583eb2c7f4f,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 67
+      objectReference: {fileID: 0}
+    - target: {fileID: 7839072371206470637, guid: 446188bb4f7ac4b4990d9583eb2c7f4f,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 426.52347
+      objectReference: {fileID: 0}
+    - target: {fileID: 7839072371523151277, guid: 446188bb4f7ac4b4990d9583eb2c7f4f,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -101.84
+      objectReference: {fileID: 0}
+    - target: {fileID: 7839072371523151277, guid: 446188bb4f7ac4b4990d9583eb2c7f4f,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 82.02446
+      objectReference: {fileID: 0}
+    - target: {fileID: 7839072371523151277, guid: 446188bb4f7ac4b4990d9583eb2c7f4f,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 5.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7839072371523151277, guid: 446188bb4f7ac4b4990d9583eb2c7f4f,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 175.62628
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 446188bb4f7ac4b4990d9583eb2c7f4f, type: 3}
