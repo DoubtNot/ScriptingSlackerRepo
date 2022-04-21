@@ -2376,6 +2376,16 @@ PrefabInstance:
       propertyPath: m_SizeDelta.x
       value: 426.52347
       objectReference: {fileID: 0}
+    - target: {fileID: 7839072371523151276, guid: 446188bb4f7ac4b4990d9583eb2c7f4f,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: LoadLevel
+      objectReference: {fileID: 0}
+    - target: {fileID: 7839072371523151276, guid: 446188bb4f7ac4b4990d9583eb2c7f4f,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7839072371523151277, guid: 446188bb4f7ac4b4990d9583eb2c7f4f,
         type: 3}
       propertyPath: m_AnchoredPosition.y
