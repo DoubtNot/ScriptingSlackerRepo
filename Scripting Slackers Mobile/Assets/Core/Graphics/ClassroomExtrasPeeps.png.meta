@@ -95,6 +95,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -104,8 +106,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -126,9 +128,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -507,6 +512,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      left 3: 5516393107877823580
+      chair: 3971726332393111855
+      ClassroomExtrasPeeps_4: -68193626784117770
+      ClassroomExtrasPeeps_5: 5923367304070984599
+      right 2: 4056018118102162962
+      Classroom: -3723542812639747405
+      ClassroomExtrasPeeps_12: -9163346664461844425
+      left 1: -4581345994260311196
+      ClassroomExtrasPeeps_22: -2272901797922578824
+      right 1: -4427029541545828902
+      left 2: -1524866104041561435
+      ClassroomExtrasPeeps_6: 2978231688444309900
+      ClassroomExtrasPeeps_7: -1340345400723076244
+      ClassroomExtrasPeeps_13: -5188767548697600469
+      right 3: 3824469039766956718
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

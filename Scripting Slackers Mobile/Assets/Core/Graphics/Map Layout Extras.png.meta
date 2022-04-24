@@ -128,6 +128,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -137,8 +139,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -159,9 +161,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -918,6 +923,40 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Map Layout Extras_8: 5860874805537109303
+      Map Layout Extras_28: -6446239903722302474
+      Map Layout Extras_1: 119214391579058134
+      Map Layout Extras_17: -3177380787136254848
+      Map Layout Extras_19: 3607386471724481291
+      Map Layout Extras_0: 5344704190897354564
+      Map Layout Extras_6: 2618216711052162636
+      Map Layout Extras_18: -2831014545438406083
+      Map Layout Extras_30: 3740638086738115388
+      Map Layout Extras_7: -2524492419818527761
+      Map Layout Extras_25: 2563126484934869983
+      Map Layout Extras_16: -6785168191229681865
+      Map Layout Extras_26: -6834271036881875018
+      Map Layout Extras_29: 2693726050853590607
+      Map Layout Extras_2: -8986729621337029692
+      Map Layout Extras_11: 5631659639327302192
+      Map Layout Extras_3: -5089998424517182295
+      Map Layout Extras_4: -8193313462685971384
+      Map Layout Extras_10: 8875295323497819512
+      Map Layout Extras_33: 1602336053661465821
+      Map Layout Extras_13: 7759485851656014613
+      Map Layout Extras_9: 977937081383415432
+      Map Layout Extras_24: -4365813748427619411
+      Map Layout Extras_27: 3442948688932650511
+      Map Layout Extras_22: -746264320210093092
+      Map Layout Extras_20: -3283995605381804254
+      Map Layout Extras_14: -3619749893312787119
+      Map Layout Extras_23: 6784764317730251258
+      Map Layout Extras_15: 4701193846289392608
+      Map Layout Extras_5: -6173211825746825961
+      Map Layout Extras_12: 2971420517231344232
+      Map Layout Extras_31: -4327863345795572080
+      Map Layout Extras_21: 7113905875559576670
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

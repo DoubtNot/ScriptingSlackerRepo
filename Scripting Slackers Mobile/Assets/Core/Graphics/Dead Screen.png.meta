@@ -92,6 +92,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -101,8 +103,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -123,9 +125,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -462,6 +467,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Voldemort2: -7964933851880219326
+      Harry7: 796195132178711631
+      Harry2: 2696335118219626713
+      Voldemort4: -3126620381456731375
+      Voldemort5: 1641346160550083259
+      Harry1: -5393164285243190307
+      Harry5: -7242859215068098887
+      Harry3: -715597320058322152
+      Voldemort6: -2391129874424938739
+      Harry4: -3810909602500137261
+      Hary6: 3235375213735622015
+      Voldemort1: -512846881533082370
+      Voldemort3: -2901524514126638120
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

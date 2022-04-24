@@ -77,6 +77,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -86,8 +88,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -108,9 +110,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -468,6 +473,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      whale1: 9015146296379976891
+      gold1: -2346675425983721158
+      BG: 7315430704136121102
+      jelly2: -3282442647274724277
+      blue1: 7995778883536348926
+      green1: 8437294583296154358
+      gold2: -4712274386000770048
+      WaterWorldExtras_8: -7994789399250460836
+      karp2: 3056680076660950881
+      jelly1: -260233259083309717
+      whale2: 8884472248430334671
+      green2: 565609109402810724
+      karp1: 8074694432262144360
+      blue2: 4260500671562139699
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

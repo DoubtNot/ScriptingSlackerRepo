@@ -191,6 +191,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -200,8 +202,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -222,9 +224,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -834,6 +839,33 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Swag Big Money Wod _42: 1038054821156644701
+      Swag Big Money Wod _39: 810140456580743553
+      Swag Big Money Wod _10: 6877107405694075533
+      Swag Big Money Wod _16: 7675465886187637670
+      Swag Big Money Wod _34: -4903627900806040211
+      Swag Big Money Wod _43: 7641591524542340420
+      Swag Big Money Wod _5: -5543360362272265699
+      Swag Big Money Wod _3: -5298024418265516475
+      Swag Big Money Wod _21: 4018227266661885167
+      Swag Big Money Wod _13: -332764451409043145
+      Swag Big Money Wod _7: 719200688380006726
+      Swag Big Money Wod _11: -160774178821385195
+      Swag Big Money Wod _22: -9096799852952155933
+      Swag Big Money Wod _14: -6600138477988665310
+      Swag Big Money Wod _9: -4310514918064667340
+      Swag Big Money Wod _38: -1575555024348832405
+      Swag Big Money Wod _4: -3155238813400616422
+      Swag Big Money Wod _28: 4104731297505006325
+      Swag Big Money Wod _41: 6593426663968681835
+      Swag Big Money Wod _31: 2804417566169820332
+      Swag Big Money Wod _18: -1018727053423765073
+      Swag Big Money Wod _17: 3392882256663604125
+      Swag Big Money Wod _19: -378391122698095297
+      Swag Big Money Wod _15: 4620599228227768684
+      Swag Big Money Wod _20: 3123662262266563059
+      Swag Big Money Wod _40: 2014869556886521676
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
