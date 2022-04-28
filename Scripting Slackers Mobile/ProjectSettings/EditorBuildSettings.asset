@@ -125,4 +125,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Core/Scenes/dedz/dedToerial.unity
     guid: 9e60296f02f06d14d97877e475aa8785
+  - enabled: 1
+    path: Assets/Core/Scenes/Feedback.unity
+    guid: fce16ed384bc0e347bb06928a8aae5b2
   m_configObjects: {}
