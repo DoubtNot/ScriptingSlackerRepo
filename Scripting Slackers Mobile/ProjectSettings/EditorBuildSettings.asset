@@ -120,6 +120,9 @@ EditorBuildSettings:
     path: Assets/Core/Scenes/dedz/dedBoss.unity
     guid: b2dd92586aab92449a6df05470df2721
   - enabled: 1
+    path: Assets/Core/Scenes/dedz/dedBossBattle.unity
+    guid: a9e7c01191f65544daef048166c3f2c9
+  - enabled: 1
     path: Assets/Core/Scenes/dedz/dedDeathToerial.unity
     guid: 51702898b049991428197cd30240a831
   - enabled: 1
